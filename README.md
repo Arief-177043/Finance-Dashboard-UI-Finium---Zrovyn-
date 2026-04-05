@@ -46,24 +46,24 @@ finance-dashboard/
 │
 ├── src/
 │   ├── components/
-│   │   ├── SummaryCard.jsx       # Animated KPI card
-│   │   ├── TransactionTable.jsx  # Filterable, sortable transaction list
-│   │   ├── Filters.jsx           # Search + category + type + sort controls
-│   │   ├── RoleSwitcher.jsx      # Viewer / Admin role dropdown
-│   │   └── Charts.jsx            # Recharts wrappers (area, bar, donut, line)
+│   │   ├── SummaryCard.jsx       
+│   │   ├── TransactionTable.jsx  
+│   │   ├── Filters.jsx           
+│   │   ├── RoleSwitcher.jsx      
+│   │   └── Charts.jsx            
 │   │
 │   ├── pages/
-│   │   └── Dashboard.jsx         # Overview · Transactions · Insights pages
+│   │   └── Dashboard.jsx         
 │   │
 │   ├── data/
-│   │   └── transactions.js       # Seed data, category metadata, helpers
+│   │   └── transactions.js       
 │   │
 │   ├── context/
-│   │   └── AppContext.jsx        # Global state (transactions, role, filters…)
+│   │   └── AppContext.jsx        
 │   │
-│   ├── App.jsx                   # Shell: sidebar, topbar, modal, toast
-│   ├── main.jsx                  # React entry point
-│   └── index.css                 # Design tokens + global resets + animations
+│   ├── App.jsx                   
+│   ├── main.jsx                  
+│   └── index.css                 
 │
 ├── index.html
 ├── vite.config.js
