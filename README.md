@@ -4,6 +4,9 @@ A clean, interactive finance dashboard built for the Zorvyn FinTech Frontend Dev
 
 ---
 
+Live Demo
+https://finance-dashboard-ui-finium-zrovyn.vercel.app/
+
 ## Quick Start
 
 ```bash
